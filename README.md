@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MATLAB code to simulate non-dispersive wave propagating over a varying bottom
 
 You can use the [editor on GitHub](https://github.com/TheoTorresV/WaveOnObstacle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
